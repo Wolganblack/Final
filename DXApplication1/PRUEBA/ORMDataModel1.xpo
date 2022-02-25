@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<dataBaseObjectModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="614bf152-44e3-4e61-887a-49a0eac5f849" dbName="mydb" connectionInfo="77u/PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjxEZXZFeHByZXNzWHBvR2VuZXJhdG9yU2V0dGluZ3MgeG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIgeG1sbnM6eHNkPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYSIgcHJvdmlkZXJLZXk9Ik15U3FsIj4NCiAgPHBhcmFtZXRlcj4NCiAgICA8Q29ubmVjdGlvblBhZ2VTZXR0aW5nc0l0ZW0gbmFtZT0ic2VydmVyIiB2YWx1ZT0ibG9jYWxob3N0IiAvPg0KICAgIDxDb25uZWN0aW9uUGFnZVNldHRpbmdzSXRlbSBuYW1lPSJkYXRhYmFzZSIgdmFsdWU9Im15ZGIiIC8+DQogICAgPENvbm5lY3Rpb25QYWdlU2V0dGluZ3NJdGVtIG5hbWU9InVzZXJpZCIgdmFsdWU9InJvb3QiIC8+DQogICAgPENvbm5lY3Rpb25QYWdlU2V0dGluZ3NJdGVtIG5hbWU9InBhc3N3b3JkIiB2YWx1ZT0iTElOVVgxOTgzIiAvPg0KICAgIDxDb25uZWN0aW9uUGFnZVNldHRpbmdzSXRlbSBuYW1lPSJyZWFkIG9ubHkiIHZhbHVlPSIxIiAvPg0KICAgIDxDb25uZWN0aW9uUGFnZVNldHRpbmdzSXRlbSBuYW1lPSJnZW5lcmF0ZUNvbm5lY3Rpb25IZWxwZXIiIHZhbHVlPSJ0cnVlIiAvPg0KICA8L3BhcmFtZXRlcj4NCjwvRGV2RXhwcmVzc1hwb0dlbmVyYXRvclNldHRpbmdzPg==" namespace="PRUEBA.mydb" connectionString="XpoProvider=MySql;server=localhost;user id=root; password=LINUX1983; database=mydb;persist security info=true;CharSet=utf8;" dataBaseShemaInfo="H4sIAAAAAAAEAMVY227bOBB9L9B/EPQcWjdKogrZhWO3hbFtNshlsfsUUOTQISpLXl0cp1+/lCxfZDuJ03gdwIDBw+HMnOFwZqDw83wSazPIcpkmXd3qmPrn3scP4TnN4bpIMzqGUSJSTUkl+ad5Lrv6fVFMPxnGw8ND58HppNnYsE3TMv7+8f2a3cOEIpnkBU0Y6KtT/OVTurKqaeENjWLIK5P1eolsAEtIu6AT6OoMeBk3p5vty0xOaPb4Bzxqo/w2kf+WSq7IStiUUnKDNC4nSd4CFZwXmUzGPckHterQaIDWWWP3cGisDW/C+8yEw/MFrC3+bh6nysdRUji23hBb2tcVCaWxYaAWF2UcVwHo6oLGuYKMA1Rf1xyWuheaWRrr2rX8pQDs/o6ai3SSRBm8VkmL5kV/MPrzov99NOwP7yQvKmbWizT3xn+UcJjDTqBruLF2eTX60b/6R382MZ5MjQOTY797Fdo485yH4ufdQvXdVmTmr3Zyb2jf7HFo7MY5/JpmIMeJytOd8K+3tPX7uFncbEKZKjs0lpzyd6DXqhW1S+r/5at/wdJhKqvQrkPTiu++YIZGrWy9/pLU6yp7Q6NZrDaHMq+A2ymnBfTq96PstcCV7LdS8hHv2TZE2CcOwlxghG0MKPJIhLgJnku5I7DthEYjvDrcMGuV5ydhtVHl+GJz4wltgC3h5yi+luYmVdP2PJ+YDnKEGSBMvQBFThAg34wwI76IqCV2qG7k0O+wXVXc09NllHimAB9ZAajrFS5FxBGRul5XEEF94vpwbLpNZzg9WQ9Tzi3XQZwJH2HgDiLE8hCzmMphG3yfmUcnu78QnZo6xgJj8AMkwBMI+yZFAYsUf8dlnhupxKbRwdT3oU0NesVw9lR9P9qI9kwpPsmIth5Xjj2iXVKZv206Y7Kswv6EjvefoE40j2yw/t+bqOOB6Xk4QqZte1VnYYg6qvpQ08cWJTahUXDkJvpe1cYLKGWCE2QT20aYuAIRquqOb5rCsh1QTYUcu9BWb+L0TH3XAu4yRw0JlpqMLDdARGCOBMeWF7ku33epb2S6eLun50oi6kTACBLYVO2Tqh5KCBEoIFj9uGqe7PBbPaSHNOu1SFh9dQB+maWsBpvnG/61+ETRG8Lsy3yaQZ53hrSgnZlFOtaZ1mx3q1UHd8wzbVDGRZlBN4GyyGh8pl2WUSxZNZanPyHpRoRwy3cVKdMEHKg5dGmitjeIaZ5DXl3AVbmKbtjnyjUQcr4qKxV0XYoWdAWTdAbbggt0W3ZAc+gN6FQWqk/+UrdUA4vY7HNC9c50ClkhT+bcbcLuaTIG3vLtCTfCb5BApvJrkE4mkBR5k6Q7cEt4CLkq15B9lSoXtk609+pjy/56Dvd0JtNMZYWg6r7Vg9ne+fghNLY+ZvX+A+QQhEr1EgAA" generateConnectionHelper="true" generateStoredProcedures="false" fieldNameCase="Unchanged" generateDefaultConstructors="false" useNameOf="true" xmlns="http://schemas.microsoft.com/dsltools/ORMDataModel">
+  <comments>
+    <dataBaseObjectModelHasComments Id="78fcbc46-9635-4fb2-8aff-c5cab3f08bce">
+      <comment Id="771f9cec-50b7-4440-9f46-8e438d1cd8f2" text="The 'PRIMARY' index is ignored, because 'idCedula' is a key;&#xD;&#xA;The 'fk_Cedula_NACIONALIDAD_idx' index is ignored, because 'NACIONALIDAD_idtable1' is an association key" name="CedulaComment">
+        <subjects>
+          <commentReferencesSubjects Id="a380bb29-58b5-488e-b76e-424e46131d3d">
+            <xpObjectMoniker Id="22eb4783-4df4-424e-b68b-d0e65ad3f423" />
+          </commentReferencesSubjects>
+        </subjects>
+      </comment>
+    </dataBaseObjectModelHasComments>
+    <dataBaseObjectModelHasComments Id="8588f7db-e094-4cc7-962e-74e51386350e">
+      <comment Id="19ebb33a-667a-4dad-a36b-40a55e8c272b" text="The 'PRIMARY' index is ignored, because 'idtable1' is a key" name="NacionalidadComment">
+        <subjects>
+          <commentReferencesSubjects Id="f9c22aa6-d769-472a-bd27-4a0793be7fbf">
+            <xpObjectMoniker Id="36e0664b-0226-4a6c-a316-a0741a828ab9" />
+          </commentReferencesSubjects>
+        </subjects>
+      </comment>
+    </dataBaseObjectModelHasComments>
+  </comments>
+  <classes>
+    <dataBaseObjectModelHasClasses Id="0ed8660c-38a3-481d-92a6-2c746756c7f0">
+      <xpObject Id="22eb4783-4df4-424e-b68b-d0e65ad3f423" name="Cedula" baseClass="XPLiteObject" userFileName="Cedula" designerFileName="Cedula.Designer" className="Cedula" virtualBaseClass="XPLiteObject" persistent="cedula" virtualName="Cedula">
+        <fields>
+          <generalXpObjectHasFields Id="6bab2a24-606d-4834-b9d8-17e6a8267205">
+            <field Id="02667803-3f09-4a69-b399-70b4c87fba1f" name="idCedula" columnType="Int32" key="true" persistent="idCedula" virtualColumnType="Int32" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="6bb04252-4514-443f-9dd5-ba7f47fe974c">
+            <field Id="ca860fe7-19e3-4f5a-83fb-b65f8fa7857e" name="Cedulacol" persistent="Cedulacol" virtualColumnType="String" delayedUpdateModifiedOnly="false" size="45" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="74f9767f-b42a-4a13-9efa-bb2e23b0ad1a">
+            <field Id="64add153-dcf7-4ed3-8816-c1cd3f2e77c0" name="Nomnbre" persistent="Nomnbre" virtualColumnType="String" delayedUpdateModifiedOnly="false" size="45" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="d6b65b3c-b28d-4a7f-934a-ec1173ac472d">
+            <field Id="44f44e79-fe6f-470a-9cb3-835c65b87fab" name="NACIONALIDAD_idtable1" columnType="Int32" persistent="NACIONALIDAD_idtable1" virtualColumnType="Nacionalidad" logicalType="Nacionalidad" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+        </fields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+    <dataBaseObjectModelHasClasses Id="e88537f7-b690-419e-b74a-ce0fa8b54da0">
+      <xpObject Id="36e0664b-0226-4a6c-a316-a0741a828ab9" name="Nacionalidad" baseClass="XPLiteObject" userFileName="Nacionalidad" designerFileName="Nacionalidad.Designer" className="Nacionalidad" virtualBaseClass="XPLiteObject" persistent="nacionalidad" virtualName="Nacionalidad">
+        <fields>
+          <generalXpObjectHasFields Id="809d85a1-0487-46b5-a4ff-12fc7d0a2f32">
+            <field Id="69aacfd8-2822-485f-8a6f-700f123e57e8" name="idtable1" columnType="Int32" key="true" persistent="idtable1" virtualColumnType="Int32" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="d679ff1e-0295-4638-af00-6d08ee8d4e84">
+            <field Id="751ed5c3-b314-4159-8f4d-fd416b55dab9" name="Pais" persistent="Pais" virtualColumnType="String" delayedUpdateModifiedOnly="false" size="45" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="4d59032a-303e-4552-b97e-74ea8db9c6ee">
+            <field Id="8ba3bec8-f407-4af7-888f-984984d7c0c8" name="ciudad" persistent="ciudad" virtualColumnType="String" delayedUpdateModifiedOnly="false" size="45" />
+          </generalXpObjectHasFields>
+        </fields>
+        <saTargets>
+          <simpleAssociation Id="7e04ef4d-13c9-43eb-bef4-6a1abf9b6f14" sourceCollectionName="Cedulas" name="CedulaReferencesNacionalidad" targetFieldName="NACIONALIDAD_idtable1">
+            <xpObjectMoniker Id="22eb4783-4df4-424e-b68b-d0e65ad3f423" />
+          </simpleAssociation>
+        </saTargets>
+        <collectionFields>
+          <xpObjectHasCollectionFields Id="f0816cbf-de94-45c8-b211-9da4425f2c24">
+            <collectionField Id="c14779d1-2bc2-4502-a029-3dfe729e97e2" name="Cedulas" />
+          </xpObjectHasCollectionFields>
+        </collectionFields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+  </classes>
+</dataBaseObjectModel>

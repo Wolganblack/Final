@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<dataBaseObjectModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="28c6c6f0-edd5-416a-ace0-672a8c075106" dbName="Libreria" connectionInfo="77u/PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjxEZXZFeHByZXNzWHBvR2VuZXJhdG9yU2V0dGluZ3MgeG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIgeG1sbnM6eHNkPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYSIgcHJvdmlkZXJLZXk9Ik15U3FsIj4NCiAgPHBhcmFtZXRlcj4NCiAgICA8Q29ubmVjdGlvblBhZ2VTZXR0aW5nc0l0ZW0gbmFtZT0ic2VydmVyIiB2YWx1ZT0ibG9jYWxob3N0IiAvPg0KICAgIDxDb25uZWN0aW9uUGFnZVNldHRpbmdzSXRlbSBuYW1lPSJkYXRhYmFzZSIgdmFsdWU9IkxpYnJlcmlhIiAvPg0KICAgIDxDb25uZWN0aW9uUGFnZVNldHRpbmdzSXRlbSBuYW1lPSJ1c2VyaWQiIHZhbHVlPSJyb290IiAvPg0KICAgIDxDb25uZWN0aW9uUGFnZVNldHRpbmdzSXRlbSBuYW1lPSJwYXNzd29yZCIgdmFsdWU9IkxJTlVYMTk4MyIgLz4NCiAgICA8Q29ubmVjdGlvblBhZ2VTZXR0aW5nc0l0ZW0gbmFtZT0icmVhZCBvbmx5IiB2YWx1ZT0iMSIgLz4NCiAgICA8Q29ubmVjdGlvblBhZ2VTZXR0aW5nc0l0ZW0gbmFtZT0iZ2VuZXJhdGVDb25uZWN0aW9uSGVscGVyIiB2YWx1ZT0idHJ1ZSIgLz4NCiAgPC9wYXJhbWV0ZXI+DQo8L0RldkV4cHJlc3NYcG9HZW5lcmF0b3JTZXR0aW5ncz4=" namespace="systemafacturacion.Libreria" connectionString="XpoProvider=MySql;server=localhost;user id=root; password=LINUX1983; database=Libreria;persist security info=true;CharSet=utf8;" dataBaseShemaInfo="H4sIAAAAAAAEAMVWy27bMBC8F+g/CD6HFimSIlXILlonKYy2QZBH0Ssfq0SoLBmi5Lh/X8qWXdtJ+kDT5CbOzmo5y+WA6dvlrAgWULu8KkcDMsSDt+PXr9L3ysFlU9XqBqZlVgWeVbo3S5ePBrdNM38Thnd3d8M7OqzqmzDCmIRfP3+6NLcwUygvXaNKA4Ntlv191sBXDYL0SukCXFdytd4gO8AGCs7UDEaDi8rzB9uYj06qop2VLgh3wWlpYQkH4GlVQ35TfoTvu4E0XP3/oFxXbbwq1sdXwJZzUq5ymrqFNOwX2+Bx7jrgem5Vs+HsY1vqhza3Uzs2hmuFtUGURYBYZgmScaKRVSCYlZGgOk7DnrxN7pXvNetR2Ac6CevgeGrrtbYdbI/7K4EPiMxU4R5VuavUGit4nAGKgWPEooQgjWONDJEJFySjmUnuKe0O6R/EXuXzqpP7/Gp1FMcxlxIJLM1areQqQRLHKolwwqkhT612alvXqjqvnl+uEkxmFBMkZKQQ04SjhANHRBhKGWUAGP5Y7kNofxf/wi+u1714Lse43rT+/3sGcCoFxRRJ0BwxiDGSkdXePWJNmcY4EuKJPePFBosCSEqEl8mEdw0WA5JGYpQpzUgkNVGcPfU96j6fX6mAGLwciQj3/u+FxkiSRCHOMh5pymlE8FMrnRRq8RLmSBgXseFIZdS7hcHeLYAJlDCa6AQw0fb+AP+LW/Trn5S0e/KAPa8rswL7O55+Wb+PxsewOFnOa3BueKwaNVwQOSRHQR8edashG+KjYNIWTVvDqIS2qVVxFJy3usiN942r6huUIy2l9ePLrMAYWKLScFNiVc8fgHPgugO4aLfdTd9ZvzXI8uXWezross32oAuYVQs4JK7RQ+7EP/PG16W5VeUNWN+zbr1uzUN7SH1n5lA3+Qvv7ZFtpB+ghNqP16SazaBsXD+j9+A98jE4b+lQn+Z+FA4y9mOrtLO2KLqpeQ+3apFXtR+KTPnj9vflMOLf0eHBQ3r8A5JMUeJxCwAA" generateConnectionHelper="true" generateStoredProcedures="false" fieldNameCase="Unchanged" generateDefaultConstructors="false" useNameOf="true" xmlns="http://schemas.microsoft.com/dsltools/ORMDataModel">
+  <classes>
+    <dataBaseObjectModelHasClasses Id="05452e6a-2c4e-42e8-a3fd-41a6def4403b">
+      <xpObject Id="e5387303-8eb5-4e60-82db-4f6b34b00277" name="Usuario" baseClass="XPObject" userFileName="Usuario" designerFileName="Usuario.Designer" className="Usuario" virtualName="Usuario">
+        <fields>
+          <generalXpObjectHasFields Id="45992ffe-3287-4494-be4c-a0808d8e4501">
+            <field Id="3ee83175-4470-446e-8c80-fab4128b1a54" name="Idusuario" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="4b8940df-860d-490e-b9df-66734e6111b7">
+            <field Id="7e6eb1a8-159b-46e6-819a-54f52b353210" name="Name" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="102a66ef-94a4-4cfc-8633-86c22fad53cc">
+            <field Id="b14576c5-af3a-4c05-9e47-9439b9e01bd7" name="Clave" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+        </fields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+    <dataBaseObjectModelHasClasses Id="2efd8253-4c5c-45f7-bf8c-8fccb2d7afbd">
+      <xpObject Id="cc5ba0bc-342e-4fd1-869b-dae74d8273b6" name="Roles" baseClass="XPObject" userFileName="Roles" designerFileName="Roles.Designer" className="Roles" virtualName="Roles">
+        <fields>
+          <generalXpObjectHasFields Id="384e2494-e896-43f5-966f-56d6fee6774d">
+            <field Id="dcd756fe-6e50-4291-b06b-c189571f3fc9" name="Idroles" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="473f3278-ca6d-4647-a152-c463b400ca3d">
+            <field Id="b2666588-708c-4291-85a9-806a920953c1" name="Tiporole" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="a7c7c98a-6b26-4b34-bfd8-6272a52a1e3a">
+            <field Id="a748f301-782a-4b15-95e5-17c33434ee0e" name="Idusuario" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+        </fields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+  </classes>
+</dataBaseObjectModel>

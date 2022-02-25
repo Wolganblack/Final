@@ -1,0 +1,204 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{8181B579-8B01-4925-A5BA-C2566E41B48F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Prueba1</RootNamespace>
+    <AssemblyName>Prueba1</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.BonusSkins.v18.1" />
+    <Reference Include="DevExpress.Data.v18.1" />
+    <Reference Include="DevExpress.Mvvm.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Utils.v18.1" />
+    <Reference Include="DevExpress.Sparkline.v18.1.Core" />
+    <Reference Include="DevExpress.Xpo.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraEditors.v18.1" />
+    <Reference Include="DevExpress.Printing.v18.1.Core" />
+    <Reference Include="DevExpress.XtraGrid.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraLayout.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraPrinting.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="MainView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainView.Designer.cs">
+      <DependentUpon>MainView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainViewModel.cs" />
+    <Compile Include="ORMDataModel1Code\Arquedo_diario.cs" />
+    <Compile Include="ORMDataModel1Code\Arquedo_diario.Designer.cs">
+      <DependentUpon>Arquedo_diario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ORMDataModel1Code\Arreglopago.cs" />
+    <Compile Include="ORMDataModel1Code\Arreglopago.Designer.cs">
+      <DependentUpon>Arreglopago.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ORMDataModel1Code\Autorizar_anulacion.cs" />
+    <Compile Include="ORMDataModel1Code\Autorizar_anulacion.Designer.cs">
+      <DependentUpon>Autorizar_anulacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ORMDataModel1Code\Barrio.cs" />
+    <Compile Include="ORMDataModel1Code\Barrio.Designer.cs">
+      <DependentUpon>Barrio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ORMDataModel1Code\Bitacora_credito.cs" />
+    <Compile Include="ORMDataModel1Code\Bitacora_credito.Designer.cs">
+      <DependentUpon>Bitacora_credito.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ORMDataModel1Code\Cliente.cs" />
+    <Compile Include="ORMDataModel1Code\Cliente.Designer.cs">
+      <DependentUpon>Cliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ORMDataModel1Code\Cobrador.cs" />
+    <Compile Include="ORMDataModel1Code\Cobrador.Designer.cs">
+      <DependentUpon>Cobrador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ORMDataModel1Code\ConnectionHelper.cs" />
+    <Compile Include="ORMDataModel1Code\Cuenta.cs" />
+    <Compile Include="ORMDataModel1Code\Cuenta.Designer.cs">
+      <DependentUpon>Cuenta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ORMDataModel1Code\Cuotas.cs" />
+    <Compile Include="ORMDataModel1Code\Cuotas.Designer.cs">
+      <DependentUpon>Cuotas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ORMDataModel1Code\Failed_jobs.cs" />
+    <Compile Include="ORMDataModel1Code\Failed_jobs.Designer.cs">
+      <DependentUpon>Failed_jobs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ORMDataModel1Code\Informacio_negocio.cs" />
+    <Compile Include="ORMDataModel1Code\Informacio_negocio.Designer.cs">
+      <DependentUpon>Informacio_negocio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ORMDataModel1Code\Migrations.cs" />
+    <Compile Include="ORMDataModel1Code\Migrations.Designer.cs">
+      <DependentUpon>Migrations.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ORMDataModel1Code\Model_has_permissions.cs" />
+    <Compile Include="ORMDataModel1Code\Model_has_permissions.Designer.cs">
+      <DependentUpon>Model_has_permissions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ORMDataModel1Code\Model_has_roles.cs" />
+    <Compile Include="ORMDataModel1Code\Model_has_roles.Designer.cs">
+      <DependentUpon>Model_has_roles.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ORMDataModel1Code\Mora.cs" />
+    <Compile Include="ORMDataModel1Code\Mora.Designer.cs">
+      <DependentUpon>Mora.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ORMDataModel1Code\Pagos.cs" />
+    <Compile Include="ORMDataModel1Code\Pagos.Designer.cs">
+      <DependentUpon>Pagos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ORMDataModel1Code\Permissions.cs" />
+    <Compile Include="ORMDataModel1Code\Permissions.Designer.cs">
+      <DependentUpon>Permissions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ORMDataModel1Code\Prestamo.cs" />
+    <Compile Include="ORMDataModel1Code\Prestamo.Designer.cs">
+      <DependentUpon>Prestamo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ORMDataModel1Code\Proforma.cs" />
+    <Compile Include="ORMDataModel1Code\Proforma.Designer.cs">
+      <DependentUpon>Proforma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ORMDataModel1Code\Referencias.cs" />
+    <Compile Include="ORMDataModel1Code\Referencias.Designer.cs">
+      <DependentUpon>Referencias.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ORMDataModel1Code\Roles.cs" />
+    <Compile Include="ORMDataModel1Code\Roles.Designer.cs">
+      <DependentUpon>Roles.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ORMDataModel1Code\Role_has_permissions.cs" />
+    <Compile Include="ORMDataModel1Code\Role_has_permissions.Designer.cs">
+      <DependentUpon>Role_has_permissions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ORMDataModel1Code\Telefono.cs" />
+    <Compile Include="ORMDataModel1Code\Telefono.Designer.cs">
+      <DependentUpon>Telefono.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ORMDataModel1Code\Users.cs" />
+    <Compile Include="ORMDataModel1Code\Users.Designer.cs">
+      <DependentUpon>Users.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ORMDataModel1Code\Usuario.cs" />
+    <Compile Include="ORMDataModel1Code\Usuario.Designer.cs">
+      <DependentUpon>Usuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="MainView.resx">
+      <DependentUpon>MainView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="ORMDataModel1.xpo" />
+    <None Include="ORMDataModel1.xpo.diagram">
+      <DependentUpon>ORMDataModel1.xpo</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

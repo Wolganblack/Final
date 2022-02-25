@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<dataBaseObjectModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="e0070aa0-89d5-4fc2-bb95-c13283e8392b" dbName="testeo" connectionInfo="77u/PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjxEZXZFeHByZXNzWHBvR2VuZXJhdG9yU2V0dGluZ3MgeG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIgeG1sbnM6eHNkPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYSIgcHJvdmlkZXJLZXk9Ik15U3FsIj4NCiAgPHBhcmFtZXRlcj4NCiAgICA8Q29ubmVjdGlvblBhZ2VTZXR0aW5nc0l0ZW0gbmFtZT0ic2VydmVyIiB2YWx1ZT0ibG9jYWxob3N0IiAvPg0KICAgIDxDb25uZWN0aW9uUGFnZVNldHRpbmdzSXRlbSBuYW1lPSJkYXRhYmFzZSIgdmFsdWU9InRlc3RlbyIgLz4NCiAgICA8Q29ubmVjdGlvblBhZ2VTZXR0aW5nc0l0ZW0gbmFtZT0idXNlcmlkIiB2YWx1ZT0icm9vdCIgLz4NCiAgICA8Q29ubmVjdGlvblBhZ2VTZXR0aW5nc0l0ZW0gbmFtZT0icGFzc3dvcmQiIHZhbHVlPSJMSU5VWDE5ODMiIC8+DQogICAgPENvbm5lY3Rpb25QYWdlU2V0dGluZ3NJdGVtIG5hbWU9InJlYWQgb25seSIgdmFsdWU9IjEiIC8+DQogICAgPENvbm5lY3Rpb25QYWdlU2V0dGluZ3NJdGVtIG5hbWU9ImdlbmVyYXRlQ29ubmVjdGlvbkhlbHBlciIgdmFsdWU9InRydWUiIC8+DQogIDwvcGFyYW1ldGVyPg0KPC9EZXZFeHByZXNzWHBvR2VuZXJhdG9yU2V0dGluZ3M+" namespace="Prueba2.testeo" connectionString="XpoProvider=MySql;server=localhost;user id=root; password=LINUX1983; database=testeo;persist security info=true;CharSet=utf8;" dataBaseShemaInfo="H4sIAAAAAAAEAMVW227bOBB9X2D/QdBzaF0sUVIhu2ictDB2mwa5FOkjRY4c7kqUl5Qcp19fSqYdS3HSBAiyL5Z5ZkYzZ25i+nFdFtYKpOKVmNjeyLU/Tv/8Iz0mCi7rSpIFzEVeWVpLqA9rxSf2bV0vPzjO3d3d6G48quTC8V3Xc26+/n1Jb6EkiAtVE0HB3lmx31vZ2qtlpVckK0C1LrvzFtkDtpB1RkqY2F9AgCTFzfJb9g/Q2rN3alpxVhVNKZTl7INzwWANA/BzJYEvxF9wvy9Inc7VwHPreDr0a1Q72U79VHTmtWwgdcxhJzzhqgWul4zUW50+tlP90nA2Z9MY+0DDLESJ62EU5OCjxM9zFFAcBWNIgLIgdYzyztgkoZfCJ2EtaClshFPOUmfv2FN7jtsBfjkp1JME90nmXuRjYD6KMIlREGYExWMa6H8JZDTJGfbpI5JtqQ4ROoSaSr2ixxrVEMkr1eutc8lLIu91x1hzdS34f43WbLNh92mZAHqghlUtuVjoDF+bl6eOgXrWzmPz1HlwfaCggyIcb2Br87i6X+oo56Ie+7Yh9xCBrYnodxoW+nDWFEWbhondVc/uj8yh0MxsDWPoYOPv/GL+9dPFD/vZrD2Ztxdn7nCALWrC6VF5HPdLN8IrRvzZEdi2P/OykGIWoJzlEQo8/RNnAUYJJJFLWcxCTN54xh/y+N6zHsUsAIwxAj+gKGDgojh2CSIZ8/wYvCih+MWz/kK+Z1WZSXh/rsTHMWQAmmGk9xrWG04vM0DgshhHbhiOqffWXE8Z+R82eOICuLnnIZdRQME4y1AMOUVRmOUAfuTifPymG9ycH1TS9uoC7FxWtAPNAKffN/ec6QmsTtdLCUqNTkhNRisvHnlHlhFP2tMoGLlH1qwp6kbCREBT66/9kXXeZAWneilcVf+CmGRxzLwoDFjkuhAkejK3Ljp/s4IoBaotwEWzy276ienQIOfr3WJpocsm70EXUFYrGCpu0KHuTF/XpjOy5DUp+E9dpQ7Y5OZQEPrrVS1B1vzdgrsW9JaIBbBebE+EkW5uV7Vu27IEUSvTpI/gnvIJKL2wQX7muhcGFn1ZZ7b9uh3DLVnxSuquyImutx6YoURfiJ3BjXj6CwMnjFI6CwAA" generateConnectionHelper="true" generateStoredProcedures="false" fieldNameCase="Unchanged" generateDefaultConstructors="false" useNameOf="true" xmlns="http://schemas.microsoft.com/dsltools/ORMDataModel">
+  <comments>
+    <dataBaseObjectModelHasComments Id="7e98375d-e2fc-4d1d-992d-fd091c2504af">
+      <comment Id="cc35ce5d-69d5-4d24-9ff9-165161bbf031" text="The 'PRIMARY' index is ignored, because 'idUsuarios' is a key" name="UsuariosComment">
+        <subjects>
+          <commentReferencesSubjects Id="ca0e91b6-7996-44e5-8e7f-21aadf1e385e">
+            <xpObjectMoniker Id="d1b5c6d4-fdf7-41f7-8b46-9e970cd8d56a" />
+          </commentReferencesSubjects>
+        </subjects>
+      </comment>
+    </dataBaseObjectModelHasComments>
+  </comments>
+  <classes>
+    <dataBaseObjectModelHasClasses Id="d695fe7d-4422-4bd3-af03-683464954f24">
+      <xpObject Id="862ec5b5-9016-4fe2-92ff-4c6743e9ecd4" name="GeneralXpObject1" baseClass="XPObject" userFileName="GeneralXpObject1" designerFileName="GeneralXpObject1.Designer" className="GeneralXpObject1" virtualName="GeneralXpObject1">
+        <fields>
+          <generalXpObjectHasFields Id="cc1f158f-fc57-4022-94ed-1cb597145631">
+            <field Id="f1726ed2-76a8-45ba-83c4-459ebc9fd62c" name="id" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+        </fields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+    <dataBaseObjectModelHasClasses Id="ea186c21-1737-4ee1-9c80-182839272ced">
+      <xpObject Id="d1b5c6d4-fdf7-41f7-8b46-9e970cd8d56a" name="Usuarios" baseClass="XPLiteObject" userFileName="Usuarios" designerFileName="Usuarios.Designer" className="Usuarios" virtualBaseClass="XPLiteObject" persistent="usuarios" virtualName="Usuarios">
+        <fields>
+          <generalXpObjectHasFields Id="7fc5f589-6547-484a-930b-a76d5f7db953">
+            <field Id="78d4e666-e24c-4de0-880a-abd128e179c6" name="idUsuarios" columnType="Int32" key="true" persistent="idUsuarios" virtualColumnType="Int32" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="841e8a1c-3ac3-4ddf-85d3-21b72b4198da">
+            <field Id="a268ebee-8878-46d2-9fde-e0d8670553c1" name="Nombre" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="15820f0a-08fc-4978-a0a2-dee72aee0e7e">
+            <field Id="90ee0f11-0dce-43bb-8efc-75bfee2706f3" name="Edad" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+        </fields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+  </classes>
+</dataBaseObjectModel>
